@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Timothy Agboada
+email: tayagboada@gmail.com
+description: I am experienced in developing structures that focus on analysing sentiments and developing better results for predictive systems.> # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: yungenn_
+github_username: Timothy-Agboada
 
 # Build settings
 markdown: kramdown
